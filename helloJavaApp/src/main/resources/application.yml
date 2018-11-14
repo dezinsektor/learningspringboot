@@ -6,4 +6,8 @@ server:
 
 hello:
   message: Hi there from java!
-log-v: false
+log-v: true
+ololo:
+  a: 1
+  b: 2
+  c: [3, 4, 7]
