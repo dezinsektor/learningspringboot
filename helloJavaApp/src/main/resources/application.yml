@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: HelloJava
+server:
+  port: 9000
+
+hello:
+  message: Hi there from java!
+log-v: false
